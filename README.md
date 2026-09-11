@@ -16,7 +16,6 @@
 
 - **정기 회의 일정:** 매주 월요일 오후 7시
 - **학습 자료:** 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB접근 기술
-  - [인프런 강의 바로가기](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8?cid=325630)
 
 ---
 
@@ -54,17 +53,18 @@ Commit Message는 아래 규칙을 참고합니다.
 
 ### Commit Message 예시
 
-```text
-Feat: Next.js 실습 코드 추가
-Docs: 1주차 학습 내용 정리
-Fix: 컴포넌트 렌더링 오류 수정
-Refactor: 컴포넌트 구조 개선
+- Feat: Spring-Basic 1주차 과제 제출
+- Docs: 1주차 학습 내용 정리
+- Fix: 컴포넌트 렌더링 오류 수정
+- Refactor: 컴포넌트 구조 개선
 
-### PR (Pull Request) 규칙
+---
+
+## PR (Pull Request) 규칙
 
 - 이 repository를 **Fork**한 후, 본인 이름으로 만든 폴더에서 작업하고 Commit 후 PR을 보냅니다.
 - PR에는 각 주차별 **학습 내용(내용 정리, 실습 코드 등)**을 포함한 Commit을 함께 보냅니다.
 - PR 제목은 아래 형식으로 설정합니다.
-  - `[n주차 XXX 스터디] 이름`
-  - 예시: `[2주차 XXX 스터디] 홍길동`
+  - `[n주차 Spring Basic 스터디] 이름`
+  - 예시: `[2주차 Spring Basic 스터디] 홍길동`
 - PR 내용에는 해당 주차 학습을 진행하며 **어려웠던 점, 새롭게 배운 점, 느낀 점** 등을 자유롭게 작성합니다.
