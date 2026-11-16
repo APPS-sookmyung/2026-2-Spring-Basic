@@ -1,0 +1,10 @@
+# IntelliJ IDEA 설정 파일
+.idea/
+*.iml
+
+# Gradle 캐시
+.gradle/
+
+# 빌드 결과물
+build/
+*.class
